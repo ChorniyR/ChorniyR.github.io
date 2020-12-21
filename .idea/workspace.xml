@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b5ed21-501a-4acc-93a1-d884d8773ed9" name="Default Changelist" comment="" />
+    <list default="true" id="e9b5ed21-501a-4acc-93a1-d884d8773ed9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/block1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/block2.html" beforeDir="false" afterPath="$PROJECT_DIR$/block2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block3.html" beforeDir="false" afterPath="$PROJECT_DIR$/block3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block4.html" beforeDir="false" afterPath="$PROJECT_DIR$/block4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block5.html" beforeDir="false" afterPath="$PROJECT_DIR$/block5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lyp9XGxdsjanVK3enP1M1Y32mL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608579039945</updated>
-      <workItem from="1608579042500" duration="32000" />
+      <workItem from="1608579042500" duration="824000" />
     </task>
     <servers />
   </component>
